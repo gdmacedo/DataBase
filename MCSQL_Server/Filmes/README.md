@@ -2,12 +2,12 @@
 ## Montando Consultas Relacionais no Microsoft SQL Server
 
 
-<div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/gdmacedo/DataBase/refs/heads/main/MCSQL_Server/Filmes/Imagens/Films.jpg" alt="Montando Consultas Relacionais no Microsoft SQL Server" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.5); width: 200px; margin-right: 20px;">
-  <p>
+<div style="display: inline-block; vertical-align: middle;">
+  <img src="https://raw.githubusercontent.com/gdmacedo/DataBase/refs/heads/main/MCSQL_Server/Filmes/Imagens/Films.jpg" alt="Descrição da imagem" style="display: inline-block; vertical-align: middle; filter: drop-shadow(5px 5px 5px #888);">
+  <span style="display: inline-block; vertical-align: middle; margin-left: 10px; text-shadow: 2px 2px 2px #888;">
 	Author: Macedo, Glener Diniz - Desenvolvedor Full Stack
 	Data.: 7 de julho de 2025.
-  </p>
+  </span>
 </div>
 
 ### Orientador:
