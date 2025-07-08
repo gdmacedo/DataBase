@@ -2,7 +2,7 @@
 ## Montando Consultas Relacionais no Microsoft SQL Server
 
 ### Author: Macedo, Glener Diniz - Desenvolvedor Full Stack
-### Data.: 7 de julho de 2025.
+### Data.: 8 de julho de 2025.
 
 ### Orientador:
 Leonardo Buta - Full-Stack
