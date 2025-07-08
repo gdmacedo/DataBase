@@ -2,8 +2,13 @@
 ## Montando Consultas Relacionais no Microsoft SQL Server
 
 
-### Author: Macedo, Glener Diniz - Desenvolvedor Full Stack
-### Data.: 7 de julho de 2025.
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/gdmacedo/DataBase/refs/heads/main/MCSQL_Server/Filmes/Imagens/Films.jpg" alt="Montando Consultas Relacionais no Microsoft SQL Server" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.5); width: 200px; margin-right: 20px;">
+  <p>
+	### Author: Macedo, Glener Diniz - Desenvolvedor Full Stack
+	### Data.: 7 de julho de 2025.
+  </p>
+</div>
 
 ### Orientador:
 Leonardo Buta - Full-Stack
@@ -53,10 +58,10 @@ podem ter muitos atores.
 Tabela responsável por representar um relacionamento do tipo muitos para muitos entre filmes e gêneros, ou seja, um filme pode ter mais de um gênero, e um genêro pode fazer parte de muitos filmes.
 
 ## Preparando o banco de dados
-Você deverá executar o arquivo **Script Filmes.sql** em seu banco de dados SQL Server, presente na pasta Scripts deste repositório ([ou clique aqui](Script%20Filmes.sql)). Esse script irá criar um banco chamado **Filmes**, contendo as tabelas e os dados necessários para você realizar este desafio.
+Executando o arquivo **Script Filmes.sql** no banco de dados SQL Server, presente na pasta Scripts deste repositório ([ou clique aqui](Script%20Filmes.sql)). Esse script irá criar um banco chamado **Filmes**, contendo as tabelas e os dados necessários para você realizar este desafio.
 
 ## Objetivo
-Você deverá criar diversas consultas, com o objetivo de retornar os dados a seguir. Abaixo de cada pedido tem o retorno esperado. O seu retorno deve ser igual ao da imagem.
+Com o objetivo de criar diversas consultas, e de retornar os dados a seguir. Abaixo de cada pedido tem o retorno esperado. O seu retorno deve ser igual ao da imagem.
 
 ## 1 - Buscar o nome e ano dos filmes
 
