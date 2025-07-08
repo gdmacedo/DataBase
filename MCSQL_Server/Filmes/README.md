@@ -1,11 +1,9 @@
 # Filmes
 ## Montando Consultas Relacionais no Microsoft SQL Server
 
+### Author: Macedo, Glener Diniz - Desenvolvedor Full Stack
+### Data.: 7 de julho de 2025.
 
-  <p style="font:12px "Trebuchet MS", Helvetica, Arial, Sans-Serif; line-height:1.6em; color:#777; min-height: 1%; font-weight:normal; display:block; height:86px;padding-bottom:20px;"><img src="https://raw.githubusercontent.com/gdmacedo/DataBase/refs/heads/main/MCSQL_Server/Filmes/Imagens/Films.jpg" alt="Descrição da imagem" style="loat:left; margin:0px 15px 0px 0px; box-shadow: 0px 0px 1em #666; -webkit-box-shadow: 0px 0px 1em #666; -moz-box-shadow: 0px 0px 1em #666; vertical-align:middle;">
-  	Author: Macedo, Glener Diniz - Desenvolvedor Full Stack
-	Data.: 7 de julho de 2025.
-  </p>
 ### Orientador:
 Leonardo Buta - Full-Stack
 
