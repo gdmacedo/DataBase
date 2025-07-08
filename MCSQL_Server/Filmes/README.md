@@ -24,8 +24,8 @@ De forma que na missão de DBA, o responsável pelo banco de dados de um site de
 </p>
 
 ## Proposta
-Você precisará realizar 12 consultas ao banco de dados, cada uma retornando um tipo de informação.
-O seu banco de dados está modelado da seguinte maneira:
+Apresentamos na prática a realização de 12 consultas ao banco de dados, cada uma retornando um tipo de informação.
+De modo que o banco de dados foi modelado da seguinte maneira, conforme o diagrama:
 
 ![Diagrama banco de dados](Imagens/diagrama.png)
 
