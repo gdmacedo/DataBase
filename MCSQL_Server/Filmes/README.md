@@ -1,6 +1,6 @@
 # Filmes
 ## Montando Consultas Relacionais no Microsoft SQL Server
-## Sistema e Abstraindo um Celular
+
 
 ### Author: Macedo, Glener Diniz - Desenvolvedor Full Stack
 ### Data.: 7 de julho de 2025.
@@ -9,7 +9,7 @@
 Leonardo Buta - Full-Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gdmacedo/CSharp/refs/heads/main/Celular/Imagens/Films.jpg" title="Sistema e Abstraindo um Celular">
+  <img src="https://raw.githubusercontent.com/gdmacedo/DataBase/refs/heads/main/MCSQL_Server/Filmes/Imagens/Films.jpg" title="Montando Consultas Relacionais no Microsoft SQL Server">
 </p>
 
 
